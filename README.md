@@ -9,3 +9,5 @@
 - 白云迪：Graph2Route A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction [[paper](./assets/papers/2024/白云迪Graph2Route A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction.pdf)][[slide](./assets/slides/2024/白云迪Graph2Route A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction.pptx)]
 - 薛彤：TS2Vec Towards Universal Representation of Time Series [[paper](./assets/papers/2024/薛彤TS2Vec Towards Universal Representation of Time Series.pdf)][[slide](./assets/slides/2024/薛彤TS2Vec Towards Universal Representation of Time Series.pptx)]
 - 闫林枝：Deep Spatio-temporal Adaptive 3D Convolutional Neural [[paper](./assets/papers/2024/闫林枝Deep Spatio-temporal Adaptive 3D Convolutional Neural.pdf)][[slide](./assets/slides/2024/闫林枝Deep Spatio-temporal Adaptive 3D Convolutional Neural.pptx)]
+---
+- 庞媛媛：Diffusion Improves Graph Learning [[paper][./assets/papers/2024/庞媛媛_Diffusion Improves Graph Learning.pdf]][[slide](./assets/slides/2024/庞媛媛_Diffusion Improves Graph Learning.pptx)]

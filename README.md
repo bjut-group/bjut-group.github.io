@@ -12,4 +12,4 @@
 - 闫林枝：Deep Spatio-temporal Adaptive 3D Convolutional Neural [[paper](./assets/papers/2024/闫林枝Deep Spatio-temporal Adaptive 3D Convolutional Neural.pdf)][[slide](./assets/slides/2024/闫林枝Deep Spatio-temporal Adaptive 3D Convolutional Neural.pptx)]
 
 ## 第二次
-- 庞媛媛：Diffusion Improves Graph Learning [[paper][./assets/papers/2024/庞媛媛_Diffusion Improves Graph Learning.pdf]][[slide](./assets/slides/2024/庞媛媛_Diffusion Improves Graph Learning.pptx)]
+- 庞媛媛：Diffusion Improves Graph Learning [[paper](./assets/papers/2024/庞媛媛_Diffusion Improves Graph Learning.pdf)][[slide](./assets/slides/2024/庞媛媛_Diffusion Improves Graph Learning.pptx)]

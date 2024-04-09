@@ -18,3 +18,6 @@
 
 **第二次**
 - 庞媛媛：Diffusion Improves Graph Learning [[paper](./assets/papers/2024/庞媛媛_Diffusion%20Improves%20Graph%20Learning.pdf)][[slide](./assets/slides/2024/庞媛媛_Diffusion%20Improves%20Graph%20Learning.pdf)]
+
+**自己找的论文**
+- 庞媛媛：Dynamic_Hypergraph_Structure_Learning_for_Traffic_Flow_Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic_Hypergraph_Structure_Learning_for_Traffic_Flow_Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic_Hypergraph_Structure_Learning_for_Traffic_Flow_Forecasting.pdf)]

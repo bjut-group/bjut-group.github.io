@@ -17,7 +17,7 @@
 - 闫林枝：Deep Spatio-temporal Adaptive 3D Convolutional Neural [[paper](./assets/papers/2024/闫林枝Deep%20Spatio-temporal%20Adaptive%203D%20Convolutional%20Neural.pdf)][[slide](./assets/slides/2024/闫林枝Deep%20Spatio-temporal%20Adaptive%203D%20Convolutional%20Neural.pdf)]
 
 **第二次**
-- 庞媛媛：Diffusion Improves Graph Learning [[paper](./assets/papers/2024/庞媛媛_Diffusion%20Improves%20Graph%20Learning.pdf)][[slide](./assets/slides/2024/庞媛媛_Diffusion%20Improves%20Graph%20Learning.pdf)]
+- 庞媛媛：Diffusion Improves Graph Learning [[paper](./assets/papers/2024/庞媛媛Dynamic_Hypergraph_Structure_Learning_for_Traffic_Flow_Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Diffusion%20Improves%20Graph%20Learning.pdf)]
 
-**自己找的论文**
-- 庞媛媛：Dynamic_Hypergraph_Structure_Learning_for_Traffic_Flow_Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic_Hypergraph_Structure_Learning_for_Traffic_Flow_Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic_Hypergraph_Structure_Learning_for_Traffic_Flow_Forecasting.pdf)]
+**其他顶会论文记录**
+- 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

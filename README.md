@@ -18,6 +18,7 @@
 
 **第二次**
 - 庞媛媛：Diffusion Improves Graph Learning [[paper](./assets/papers/2024/庞媛媛Dynamic_Hypergraph_Structure_Learning_for_Traffic_Flow_Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Diffusion%20Improves%20Graph%20Learning.pdf)]
+- 白云迪：Knowledge Graphs Meet Multi-Modal Learning A Comprehensive Survey [[paper](./assets/papers/2024/白云迪Knowledge%20Graphs%20Meet%20Multi-Modal%20Learning%20A%20Comprehensive%20Survey.pdf)][[slide](./assets/slides/2024/白云迪Knowledge%20Graphs%20Meet%20Multi-Modal%20Learning%20A%20Comprehensive%20Survey.pdf)]
 
 **其他顶会论文记录**
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

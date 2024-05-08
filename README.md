@@ -11,7 +11,7 @@
 # 2024年春季学期
 
 **第一次**
-- 庞媛媛：Spatio-Temporal Trajectory Similarity Learning in Road Networks [[paper](./assets/papers/2024/庞媛媛Spatio-Temporal%20Trajectory%20Similarity%20Learning%20in%20Road%20Networks.pdf)][[slide](./assets/slides/2024/庞媛媛_Diffusion%20Improves%20Graph%20Learning.pdf)]
+- 庞媛媛：Spatio-Temporal Trajectory Similarity Learning in Road Networks [[paper](./assets/papers/2024/庞媛媛Spatio-Temporal%20Trajectory%20Similarity%20Learning%20in%20Road%20Networks.pdf)][[slide](./assets/slides/2024/庞媛媛Spatio-Temporal%20Trajectory%20Similarity%20Learning%20in%20Road%20Networks.pdf)]
 - 白云迪：Graph2Route A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction [[paper](./assets/papers/2024/白云迪Graph2Route%20A%20Dynamic%20Spatial-Temporal%20Graph%20Neural%20Network%20for%20Pick-up%20and%20Delivery%20Route%20Prediction.pdf)][[slide](./assets/slides/2024/白云迪Graph2Route%20A%20Dynamic%20Spatial-Temporal%20Graph%20Neural%20Network%20for%20Pick-up%20and%20Delivery%20Route%20Prediction.pdf)]
 - 薛彤：TS2Vec Towards Universal Representation of Time Series [[paper](./assets/papers/2024/薛彤TS2Vec%20Towards%20Universal%20Representation%20of%20Time%20Series.pdf)][[slide](./assets/slides/2024/薛彤TS2Vec%20Towards%20Universal%20Representation%20of%20Time%20Series.pdf)]
 - 闫林枝：Deep Spatio-temporal Adaptive 3D Convolutional Neural [[paper](./assets/papers/2024/闫林枝Deep%20Spatio-temporal%20Adaptive%203D%20Convolutional%20Neural.pdf)][[slide](./assets/slides/2024/闫林枝Deep%20Spatio-temporal%20Adaptive%203D%20Convolutional%20Neural.pdf)]

@@ -25,3 +25,4 @@
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]
 - 庞媛媛：Deep Learning for Trajectory Data Management [[paper](./assets/papers/2024/庞媛媛Deep%20Learning%20for%20Trajectory%20Data%20Management.pdf)][[mindmap](./assets/slides/2024/庞媛媛Deep%20Learning%20for%20Trajectory%20Data%20Management.pdf)]
 - 庞媛媛：图神经网络前言进展与应用 [[paper](./assets/papers/2024/庞媛媛_图神经网络前沿进展与应用.pdf)][[mindmap](./assets/slides/2024/庞媛媛_图神经网络前言进展与应用.pdf)]
+- 庞媛媛：基于时空图卷积的交通预测模型总结[[slide](./assets/slides/2024/庞媛媛_基于时空图卷积的交通预测模型.pdf)]

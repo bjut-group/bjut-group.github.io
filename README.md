@@ -31,3 +31,4 @@
 - 庞媛媛：图神经网络前言进展与应用 [[paper](./assets/papers/2024/庞媛媛_图神经网络前沿进展与应用.pdf)][[mindmap](./assets/slides/2024/庞媛媛_图神经网络前言进展与应用.pdf)]
 - 庞媛媛：基于时空图卷积的交通预测模型总结[[slide](./assets/slides/2024/庞媛媛_基于时空图卷积的交通预测模型.pdf)]
 - 庞媛媛：DiffTraj Generating GPS Trajectory with Diffusion Probabilistic Model [[paper](./assets/papers/2024/庞媛媛DiffTraj%20Generating%20GPS%20Trajectory%20with%20Diffusion%20Probabilistic%20Model.pdf)][[slide](./assets/slides/2024/庞媛媛DiffTraj%20Generating%20GPS%20Trajectory%20with%20Diffusion%20Probabilistic%20Model.pdf)]
+- 庞媛媛：Graph deep learning recognition of port ship behavior patterns from a network approach [[paper](./assets/papers/2024/庞媛媛Graph%20deep%20learning%20recognition%20of%20port%20ship%20behavior%20patterns%20from%20a%20network%20approach.pdf)][[slide](./assets/slides/2024/庞媛媛Graph%20deep%20learning%20recognition%20of%20port%20ship%20behavior%20patterns%20from%20a%20network%20approach.pdf)]

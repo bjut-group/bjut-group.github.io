@@ -26,7 +26,7 @@
 
 **第三次**
 - 白云迪：Spatio-Temporal Meta-Graph Learning for Traffic Forecasting [[paper](./assets/papers/2024/白云迪Spatio-Temporal%20Meta-Graph%20Learning%20for%20Traffic%20Forecasting.pdf)][[slide](./assets/slides/2024/白云迪Spatio-Temporal%20Meta-Graph%20Learning%20for%20Traffic%20Forecasting.pdf)]
-- 庞媛媛：基于时空图卷积的交通预测模型总结[[slide](./assets/slides/2024/庞媛媛_基于时空图卷积的交通预测模型.pdf)]
+- 庞媛媛：基于时空图卷积的交通预测模型总结[[slide](./assets/slides/2024/庞媛媛_基于时空图卷积的交通预测模型总结.pdf)]
 
 **其他顶会论文记录**
 

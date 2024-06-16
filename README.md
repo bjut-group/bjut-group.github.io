@@ -10,23 +10,49 @@
 
 # 2024年春季学期
 
-**第一次**
+**20240107**
 
-- 庞媛媛：Spatio-Temporal Trajectory Similarity Learning in Road Networks [[paper](./assets/papers/2024/庞媛媛Spatio-Temporal%20Trajectory%20Similarity%20Learning%20in%20Road%20Networks.pdf)][[slide](./assets/slides/2024/庞媛媛Spatio-Temporal%20Trajectory%20Similarity%20Learning%20in%20Road%20Networks.pdf)]
-- 白云迪：Graph2Route A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction [[paper](./assets/papers/2024/白云迪Graph2Route%20A%20Dynamic%20Spatial-Temporal%20Graph%20Neural%20Network%20for%20Pick-up%20and%20Delivery%20Route%20Prediction.pdf)][[slide](./assets/slides/2024/白云迪Graph2Route%20A%20Dynamic%20Spatial-Temporal%20Graph%20Neural%20Network%20for%20Pick-up%20and%20Delivery%20Route%20Prediction.pdf)]
-- 薛彤：TS2Vec Towards Universal Representation of Time Series [[paper](./assets/papers/2024/薛彤TS2Vec%20Towards%20Universal%20Representation%20of%20Time%20Series.pdf)][[slide](./assets/slides/2024/薛彤TS2Vec%20Towards%20Universal%20Representation%20of%20Time%20Series.pdf)]
-- 闫林枝：Deep Spatio-temporal Adaptive 3D Convolutional Neural [[paper](./assets/papers/2024/闫林枝Deep%20Spatio-temporal%20Adaptive%203D%20Convolutional%20Neural.pdf)][[slide](./assets/slides/2024/闫林枝Deep%20Spatio-temporal%20Adaptive%203D%20Convolutional%20Neural.pdf)]
+庞媛媛：Spatio-Temporal Trajectory Similarity Learning in Road Networks [[paper](./assets/papers/2024/庞媛媛Spatio-Temporal%20Trajectory%20Similarity%20Learning%20in%20Road%20Networks.pdf)][[slide](./assets/slides/2024/庞媛媛Spatio-Temporal%20Trajectory%20Similarity%20Learning%20in%20Road%20Networks.pdf)]
 
-**第二次**
+**20240121**
 
-- 庞媛媛：Diffusion Improves Graph Learning [[paper](./assets/papers/2024/庞媛媛Dynamic_Hypergraph_Structure_Learning_for_Traffic_Flow_Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Diffusion%20Improves%20Graph%20Learning.pdf)]
-- 白云迪：Knowledge Graphs Meet Multi-Modal Learning A Comprehensive Survey [[paper](./assets/papers/2024/白云迪Knowledge%20Graphs%20Meet%20Multi-Modal%20Learning%20A%20Comprehensive%20Survey.pdf)][[slide](./assets/slides/2024/白云迪Knowledge%20Graphs%20Meet%20Multi-Modal%20Learning%20A%20Comprehensive%20Survey.pdf)]
-- 薛彤：Deep-learning architecture for PM 2.5 concentration prediction：A review [[paper](./assets/papers/2024/薛彤Deep-learning%20architecture%20for%20PM2.5%20concentration%20prediction%20A%20review.pdf)][[slide](./assets/slides/2024/薛彤Deep-learning%20architecture%20for%20PM%202.5%20concentration%20prediction%20A%20review.pdf)]
-- 闫林枝：Mamba Linear-Time Sequence Modeling with Selective State Spaces [[paper](./assets/papers/2024/闫林枝Mamba%20Linear-Time%20Sequence%20Modeling%20with%20Selective%20State%20Spaces.pdf)][[slide](./assets/slides/2024/闫林枝mamba.pdf)]
+薛彤：TS2Vec Towards Universal Representation of Time Series [[paper](./assets/papers/2024/薛彤TS2Vec%20Towards%20Universal%20Representation%20of%20Time%20Series.pdf)][[slide](./assets/slides/2024/薛彤TS2Vec%20Towards%20Universal%20Representation%20of%20Time%20Series.pdf)]
 
-**第三次**
-- 白云迪：Spatio-Temporal Meta-Graph Learning for Traffic Forecasting [[paper](./assets/papers/2024/白云迪Spatio-Temporal%20Meta-Graph%20Learning%20for%20Traffic%20Forecasting.pdf)][[slide](./assets/slides/2024/白云迪Spatio-Temporal%20Meta-Graph%20Learning%20for%20Traffic%20Forecasting.pdf)]
-- 庞媛媛：基于时空图卷积的交通预测模型总结[[slide](./assets/slides/2024/庞媛媛_基于时空图卷积的交通预测模型总结.pdf)]
+**20240128**
+
+白云迪：Graph2Route A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction [[paper](./assets/papers/2024/白云迪Graph2Route%20A%20Dynamic%20Spatial-Temporal%20Graph%20Neural%20Network%20for%20Pick-up%20and%20Delivery%20Route%20Prediction.pdf)][[slide](./assets/slides/2024/白云迪Graph2Route%20A%20Dynamic%20Spatial-Temporal%20Graph%20Neural%20Network%20for%20Pick-up%20and%20Delivery%20Route%20Prediction.pdf)]
+
+**20240303**
+
+闫林枝：Deep Spatio-temporal Adaptive 3D Convolutional Neural [[paper](./assets/papers/2024/闫林枝Deep%20Spatio-temporal%20Adaptive%203D%20Convolutional%20Neural.pdf)][[slide](./assets/slides/2024/闫林枝Deep%20Spatio-temporal%20Adaptive%203D%20Convolutional%20Neural.pdf)]
+
+**20240324**
+
+庞媛媛：Diffusion Improves Graph Learning [[paper](./assets/papers/2024/庞媛媛Dynamic_Hypergraph_Structure_Learning_for_Traffic_Flow_Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Diffusion%20Improves%20Graph%20Learning.pdf)]
+
+**20240414**
+
+白云迪：Knowledge Graphs Meet Multi-Modal Learning A Comprehensive Survey [[paper](./assets/papers/2024/白云迪Knowledge%20Graphs%20Meet%20Multi-Modal%20Learning%20A%20Comprehensive%20Survey.pdf)][[slide](./assets/slides/2024/白云迪Knowledge%20Graphs%20Meet%20Multi-Modal%20Learning%20A%20Comprehensive%20Survey.pdf)]
+
+**20240421**
+
+薛彤：Deep-learning architecture for PM 2.5 concentration prediction：A review [[paper](./assets/papers/2024/薛彤Deep-learning%20architecture%20for%20PM2.5%20concentration%20prediction%20A%20review.pdf)][[slide](./assets/slides/2024/薛彤Deep-learning%20architecture%20for%20PM%202.5%20concentration%20prediction%20A%20review.pdf)]
+
+**20240512**
+
+闫林枝：Mamba Linear-Time Sequence Modeling with Selective State Spaces [[paper](./assets/papers/2024/闫林枝Mamba%20Linear-Time%20Sequence%20Modeling%20with%20Selective%20State%20Spaces.pdf)][[slide](./assets/slides/2024/闫林枝mamba.pdf)]
+
+**20240526**
+
+白云迪：Spatio-Temporal Meta-Graph Learning for Traffic Forecasting [[paper](./assets/papers/2024/白云迪Spatio-Temporal%20Meta-Graph%20Learning%20for%20Traffic%20Forecasting.pdf)][[slide](./assets/slides/2024/白云迪Spatio-Temporal%20Meta-Graph%20Learning%20for%20Traffic%20Forecasting.pdf)]
+
+**20240602**
+
+庞媛媛：基于时空图卷积的交通预测模型总结[[slide](./assets/slides/2024/庞媛媛_基于时空图卷积的交通预测模型总结.pdf)]
+
+**20240616**
+
+薛彤：A graph-attention based spatial-temporal learning framework for tourism demand forecasting [[paper](./assets/papers/2024/薛彤A%20graph-attention%20based%20spatial-temporal%20learning%20framework%20for%20tourism%20demand%20forecasting.pdf)][[slide](./assets/slides/2024/薛彤A%20graph-attention%20based%20spatial-temporal%20learning%20framework%20for%20tourism%20demand%20forecasting.pdf)]
 
 **其他顶会论文记录**
 

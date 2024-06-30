@@ -54,6 +54,10 @@
 
 薛彤：A graph-attention based spatial-temporal learning framework for tourism demand forecasting [[paper](./assets/papers/2024/薛彤A%20graph-attention%20based%20spatial-temporal%20learning%20framework%20for%20tourism%20demand%20forecasting.pdf)][[slide](./assets/slides/2024/薛彤A%20graph-attention%20based%20spatial-temporal%20learning%20framework%20for%20tourism%20demand%20forecasting.pdf)]
 
+**20240630**
+
+闫林枝：Memory-augment dynamic graph convolution networks for traffic data imputation with diverse missing patterns [[paper](./assets/papers/2024/闫林枝Memory-augment%20dynamic%20graph%20convolution%20networks%20for%20traffic%20data%20imputation%20with%20diverse%20missing%20patterns.pdf)][[slide](./assets/slides/2024/闫林枝Memory-augment%20dynamic%20graph%20convolution%20networks%20for%20traffic%20data%20imputation%20with%20diverse%20missing%20patterns.pdf)]
+
 **其他顶会论文记录**
 
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

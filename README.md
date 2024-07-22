@@ -58,6 +58,11 @@
 
 闫林枝：Memory-augment dynamic graph convolution networks for traffic data imputation with diverse missing patterns [[paper](./assets/papers/2024/闫林枝Memory-augment%20dynamic%20graph%20convolution%20networks%20for%20traffic%20data%20imputation%20with%20diverse%20missing%20patterns.pdf)][[slide](./assets/slides/2024/闫林枝Memory-augment%20dynamic%20graph%20convolution%20networks%20for%20traffic%20data%20imputation%20with%20diverse%20missing%20patterns.pdf)]
 
+**2024072**
+- 庞媛媛：Diffusion Models and Representation Learning A Survey [[paper](./assets/papers/2024/庞媛媛_Diffusion%20Models%20and%20Representation%20Learning%20A%20Survey.pdf)][[slide](./assets/slides/2024/庞媛媛_Diffusion%20Models%20and%20Representation%20Learning%20A%20Survey.pdf)]
+- 庞媛媛：Simulating human mobility with a trajectory generation framework based on diffusion model [[paper](./assets/papers/2024/庞媛媛_Simulating%20human%20mobility%20with%20a%20trajectory%20generation%20framework%20based%20on%20diffusion%20model.pdf)][[slide](./assets/slides/2024/庞媛媛_Simulating%20human%20mobility%20with%20a%20trajectory%20generation%20framework%20based%20on%20diffusion%20model.pdf)]
+
+
 **其他顶会论文记录**
 
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

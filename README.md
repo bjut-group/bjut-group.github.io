@@ -58,9 +58,13 @@
 
 闫林枝：Memory-augment dynamic graph convolution networks for traffic data imputation with diverse missing patterns [[paper](./assets/papers/2024/闫林枝Memory-augment%20dynamic%20graph%20convolution%20networks%20for%20traffic%20data%20imputation%20with%20diverse%20missing%20patterns.pdf)][[slide](./assets/slides/2024/闫林枝Memory-augment%20dynamic%20graph%20convolution%20networks%20for%20traffic%20data%20imputation%20with%20diverse%20missing%20patterns.pdf)]
 
-**2024072**
+**20240721**
 - 庞媛媛：Diffusion Models and Representation Learning A Survey [[paper](./assets/papers/2024/庞媛媛_Diffusion%20Models%20and%20Representation%20Learning%20A%20Survey.pdf)][[slide](./assets/slides/2024/庞媛媛_Diffusion%20Models%20and%20Representation%20Learning%20A%20Survey.pdf)]
 - 庞媛媛：Simulating human mobility with a trajectory generation framework based on diffusion model [[paper](./assets/papers/2024/庞媛媛_Simulating%20human%20mobility%20with%20a%20trajectory%20generation%20framework%20based%20on%20diffusion%20model.pdf)][[slide](./assets/slides/2024/庞媛媛_Simulating%20human%20mobility%20with%20a%20trajectory%20generation%20framework%20based%20on%20diffusion%20model.pdf)]
+
+**20240922**
+- 张旭鹤：Deep Time Series Models：A Comprehensive Survey and Benchmark [[paper](./assets/papers/2024/张旭鹤Deep%20Time%20Series%20Models：A%20Comprehensive%20Survey%20and%20Benchmark.pdf)][[slide](./assets/slides/2024/张旭鹤Deep%20Time%20Series%20Models：A%20Comprehensive%20Survey%20and%20Benchmark.pdf)]
+- 韦浩文：Long-Term Vessel Trajectory Imputation with Physics-Guided [[paper](./assets/papers/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)][[slide](./assets/slides/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)]
 
 
 **其他顶会论文记录**

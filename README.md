@@ -67,7 +67,7 @@
 - 韦浩文：Long-Term Vessel Trajectory Imputation with Physics-Guided [[paper](./assets/papers/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)][[slide](./assets/slides/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)]
 
 **20241013**
-- 穆莹：Towards Foundation Models for Knowledge Graph Reasoning [[paper](./assets/papers/2024/穆莹Towards Foundation Models for Knowledge Graph Reasoning.pdf)][[slide](./assets/slides/2024/穆莹Towards Foundation Models for Knowledge Graph Reasoning.pdf)]
+- 穆莹：Towards Foundation Models for Knowledge Graph Reasoning [[paper]][[slide]]
   
 **20241027**
 - 肖永康：Long-Term Vessel Trajectory Imputation with Physics-Guided [[paper](./assets/papers/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)][[slide](./assets/slides/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)]

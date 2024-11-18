@@ -67,16 +67,18 @@
 - 韦浩文：Long-Term Vessel Trajectory Imputation with Physics-Guided [[paper](./assets/papers/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)][[slide](./assets/slides/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)]
 
 **20241013**
-- 穆莹：Towards Foundation Models for Knowledge Graph Reasoning [[paper]][[slide]]
+- 穆莹：Towards Foundation Models for Knowledge Graph Reasoning [[paper](./assets/papers/2024/穆莹Towards%20Foundation%20Models%20for%20Knowledge%20Graph%20Reasoning.pdf)][[slide](./assets/slides/2024/穆莹Towards%20Foundation%20Models%20for%20Knowledge%20Graph%20Reasoning.pdf)]
   
 **20241027**
-- 肖永康：Long-Term Vessel Trajectory Imputation with Physics-Guided [[paper](./assets/papers/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)][[slide](./assets/slides/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)]
+- 肖永康：Self-consistent Deep Geometric Learning for Heterogeneous Multi-source Spatial Point Data Prediction [[paper](./assets/papers/2024/肖永康Self-consistent%20Deep%20Geometric%20Learning%20for%20Heterogeneous%20Multi-source%20Spatial%20Point%20Data%20Prediction.pdf)][[slide](./assets/slides/2024/肖永康Self-consistent%20Deep%20Geometric%20Learning%20for%20Heterogeneous%20Multi-source%20Spatial%20Point%20Data%20Prediction.pdf)]
   
 **20241103**
-- 薛彤：Long-Term Vessel Trajectory Imputation with Physics-Guided [[paper](./assets/papers/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)][[slide](./assets/slides/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)]
+- 薛彤：Integrating a non-gridded space representation into a graph neural networks model for citywide short-term crash risk prediction [[paper](./assets/papers/2024/薛彤Integrating%20a%20non-gridded%20space%20representation%20into%20a%20graph%20neural%20networks%20model%20for%20citywide%20short-term%20crash%20risk%20prediction.pdf)][[slide](./assets/slides/2024/薛彤Integrating%20a%20non-gridded%20space%20representation%20into%20a%20graph%20neural%20networks%20model%20for%20citywide%20short-term%20crash%20risk%20prediction.pdf
+)]
 
 **20241110**
-- 闫林枝：Long-Term Vessel Trajectory Imputation with Physics-Guided [[paper](./assets/papers/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)][[slide](./assets/slides/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)]
+- 闫林枝：TFB：Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Method.pdf [[paper](./assets/papers/2024/闫林枝TFB：Towards%20Comprehensive%20and%20Fair%20Benchmarking%20of%20Time%20Series%20Forecasting%20Method.pdf)][[slide](./assets/slides/2024/闫林枝TFB：Towards%20Comprehensive%20and%20Fair%20Benchmarking%20of%20Time%20Series%20Forecasting%20Method.pdf
+)]
 
 
 **其他顶会论文记录**

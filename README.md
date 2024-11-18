@@ -66,6 +66,18 @@
 - 张旭鹤：Deep Time Series Models：A Comprehensive Survey and Benchmark [[paper](./assets/papers/2024/张旭鹤Deep%20Time%20Series%20Models：A%20Comprehensive%20Survey%20and%20Benchmark.pdf)][[slide](./assets/slides/2024/张旭鹤Deep%20Time%20Series%20Models：A%20Comprehensive%20Survey%20and%20Benchmark.pdf)]
 - 韦浩文：Long-Term Vessel Trajectory Imputation with Physics-Guided [[paper](./assets/papers/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)][[slide](./assets/slides/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)]
 
+**20241013**
+- 穆莹：Long-Term Vessel Trajectory Imputation with Physics-Guided [[paper](./assets/papers/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)][[slide](./assets/slides/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)]
+  
+**20241027**
+- 肖永康：Long-Term Vessel Trajectory Imputation with Physics-Guided [[paper](./assets/papers/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)][[slide](./assets/slides/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)]
+  
+**20241103**
+- 薛彤：Long-Term Vessel Trajectory Imputation with Physics-Guided [[paper](./assets/papers/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)][[slide](./assets/slides/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)]
+
+**20241110**
+- 闫林枝：Long-Term Vessel Trajectory Imputation with Physics-Guided [[paper](./assets/papers/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)][[slide](./assets/slides/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)]
+
 
 **其他顶会论文记录**
 

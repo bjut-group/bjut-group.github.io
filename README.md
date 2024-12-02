@@ -81,11 +81,11 @@
 )]
 
 **20241124**
-- 庞媛媛：MST-GNN graph neural network with multi-granularity in space and time for traffic prediction.pdf [[paper](./assets/papers/2024/庞媛媛MST-GNN%20graph%20neural%20network%20with%20multi-granularity%20in%20space%20and%20time%20for%20traffic%20prediction.pdf)][[slide](./assets/slides/2024/闫林枝TFB：Towards%20Comprehensive%20and%20Fair%20Benchmarking%20of%20Time%20Series%20Forecasting%20Method.pdf
+- 庞媛媛：MST-GNN graph neural network with multi-granularity in space and time for traffic prediction.pdf [[paper](./assets/papers/2024/庞媛媛MST-GNN%20graph%20neural%20network%20with%20multi-granularity%20in%20space%20and%20time%20for%20traffic%20prediction.pdf)][[slide](./assets/slides/2024//庞媛媛MST-GNN：融合“空间多尺度”与“时序多粒度”信息的交通流量预测图神经网络.pdf
 )]
 
 **20241201**
-- 白云迪：Urban region representation learning with human trajectories a multi-view approach incorporating transition spatial and temporal perspectives.pdf [[paper](./assets/papers/2024/白云迪Urban%20region%20representation%20learning%20with%20human%20trajectories%20%20a%20multi-view%20approach%20incorporating%20transition%20%20spatial%20%20and%20temporal%20perspectives.pdf)][[slide](./assets/slides/2024/闫林枝TFB：Towards%20Comprehensive%20and%20Fair%20Benchmarking%20of%20Time%20Series%20Forecasting%20Method.pdf
+- 白云迪：Urban region representation learning with human trajectories a multi-view approach incorporating transition spatial and temporal perspectives.pdf [[paper](./assets/papers/2024/白云迪Urban%20region%20representation%20learning%20with%20human%20trajectories%20%20a%20multi-view%20approach%20incorporating%20transition%20%20spatial%20%20and%20temporal%20perspectives.pdf)][[slide](./assets/slides/2024//白云迪Urban%20region%20representation%20learning%20with%20human%20trajectories%20a%20multi-view%20approach%20incorporating%20transition%20spatial%20and%20temporal%20perspectives.pdf
 )]
 
 **其他顶会论文记录**

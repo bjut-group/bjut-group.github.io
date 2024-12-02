@@ -80,6 +80,13 @@
 - 闫林枝：TFB：Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Method.pdf [[paper](./assets/papers/2024/闫林枝TFB：Towards%20Comprehensive%20and%20Fair%20Benchmarking%20of%20Time%20Series%20Forecasting%20Method.pdf)][[slide](./assets/slides/2024/闫林枝TFB：Towards%20Comprehensive%20and%20Fair%20Benchmarking%20of%20Time%20Series%20Forecasting%20Method.pdf
 )]
 
+**20241124**
+- 庞媛媛：TFB：Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Method.pdf [[paper](./assets/papers/2024/闫林枝TFB：Towards%20Comprehensive%20and%20Fair%20Benchmarking%20of%20Time%20Series%20Forecasting%20Method.pdf)][[slide](./assets/slides/2024/闫林枝TFB：Towards%20Comprehensive%20and%20Fair%20Benchmarking%20of%20Time%20Series%20Forecasting%20Method.pdf
+)]
+
+**20241201**
+- 白云迪：TFB：Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Method.pdf [[paper](./assets/papers/2024/闫林枝TFB：Towards%20Comprehensive%20and%20Fair%20Benchmarking%20of%20Time%20Series%20Forecasting%20Method.pdf)][[slide](./assets/slides/2024/闫林枝TFB：Towards%20Comprehensive%20and%20Fair%20Benchmarking%20of%20Time%20Series%20Forecasting%20Method.pdf
+)]
 
 **其他顶会论文记录**
 

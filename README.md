@@ -92,6 +92,18 @@
 
 # 2025年春季学期
 
+**20250112**
+- 韦浩文：Interpretable Clustering A Survey.pdf [[paper](./assets/papers/2024/庞媛媛MST-GNN%20graph%20neural%20network%20with%20multi-granularity%20in%20space%20and%20time%20for%20traffic%20prediction.pdf)][[slide](./assets/slides/2024//庞媛媛MST-GNN：融合“空间多尺度”与“时序多粒度”信息的交通流量预测图神经网络.pdf
+)]
+
+**20240216**
+- 张旭鹤：UniST A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction.pdf [[paper](./assets/papers/2024/庞媛媛MST-GNN%20graph%20neural%20network%20with%20multi-granularity%20in%20space%20and%20time%20for%20traffic%20prediction.pdf)][[slide](./assets/slides/2024//庞媛媛MST-GNN：融合“空间多尺度”与“时序多粒度”信息的交通流量预测图神经网络.pdf
+)]
+
+**20240223**
+- 肖永康：MM-Path Multi-modal, Multi-granularity Path Representation Learning—Extended Version.pdf [[paper](./assets/papers/2024/庞媛媛MST-GNN%20graph%20neural%20network%20with%20multi-granularity%20in%20space%20and%20time%20for%20traffic%20prediction.pdf)][[slide](./assets/slides/2024//庞媛媛MST-GNN：融合“空间多尺度”与“时序多粒度”信息的交通流量预测图神经网络.pdf
+)]
+
 **其他顶会论文记录**
 
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

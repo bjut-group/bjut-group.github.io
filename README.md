@@ -62,6 +62,8 @@
 - 庞媛媛：Diffusion Models and Representation Learning A Survey [[paper](./assets/papers/2024/庞媛媛_Diffusion%20Models%20and%20Representation%20Learning%20A%20Survey.pdf)][[slide](./assets/slides/2024/庞媛媛_Diffusion%20Models%20and%20Representation%20Learning%20A%20Survey.pdf)]
 - 庞媛媛：Simulating human mobility with a trajectory generation framework based on diffusion model [[paper](./assets/papers/2024/庞媛媛_Simulating%20human%20mobility%20with%20a%20trajectory%20generation%20framework%20based%20on%20diffusion%20model.pdf)][[slide](./assets/slides/2024/庞媛媛_Simulating%20human%20mobility%20with%20a%20trajectory%20generation%20framework%20based%20on%20diffusion%20model.pdf)]
 
+# 2024年秋季学期
+
 **20240922**
 - 张旭鹤：Deep Time Series Models：A Comprehensive Survey and Benchmark [[paper](./assets/papers/2024/张旭鹤Deep%20Time%20Series%20Models：A%20Comprehensive%20Survey%20and%20Benchmark.pdf)][[slide](./assets/slides/2024/张旭鹤Deep%20Time%20Series%20Models：A%20Comprehensive%20Survey%20and%20Benchmark.pdf)]
 - 韦浩文：Long-Term Vessel Trajectory Imputation with Physics-Guided [[paper](./assets/papers/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)][[slide](./assets/slides/2024/韦浩文Long-Term%20Vessel%20Trajectory%20Imputation%20with%20Physics-Guided.pdf)]
@@ -87,6 +89,8 @@
 **20241201**
 - 白云迪：Urban region representation learning with human trajectories a multi-view approach incorporating transition spatial and temporal perspectives.pdf [[paper](./assets/papers/2024/白云迪Urban%20region%20representation%20learning%20with%20human%20trajectories%20%20a%20multi-view%20approach%20incorporating%20transition%20%20spatial%20%20and%20temporal%20perspectives.pdf)][[slide](./assets/slides/2024//白云迪Urban%20region%20representation%20learning%20with%20human%20trajectories%20a%20multi-view%20approach%20incorporating%20transition%20spatial%20and%20temporal%20perspectives.pdf
 )]
+
+# 2025年春季学期
 
 **其他顶会论文记录**
 

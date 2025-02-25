@@ -93,15 +93,15 @@
 # 2025年春季学期
 
 **20250112**
-- 韦浩文：Interpretable Clustering A Survey.pdf [[paper](./assets/papers/2025/韦浩文Interpretable%20Clustering%20A%20Survey.pdf)][[slide](./assets/slides/2024//庞媛媛MST-GNN：融合“空间多尺度”与“时序多粒度”信息的交通流量预测图神经网络.pdf
+- 韦浩文：Interpretable Clustering A Survey.pdf [[paper](./assets/papers/2025/韦浩文Interpretable%20Clustering%20A%20Survey.pdf)][[slide](./assets/slides/2025/韦浩文Interpretable%20Clustering%20A%20Survey.pdf
 )]
 
 **20240216**
-- 张旭鹤：UniST A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction.pdf [[paper](./assets/papers/2025/张旭鹤UniST%20A%20Prompt-Empowered%20Universal%20Model%20for%20Urban%20Spatio-Temporal%20Prediction.pdf)][[slide](./assets/slides/2024//庞媛媛MST-GNN：融合“空间多尺度”与“时序多粒度”信息的交通流量预测图神经网络.pdf
+- 张旭鹤：UniST A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction.pdf [[paper](./assets/papers/2025/张旭鹤UniST%20A%20Prompt-Empowered%20Universal%20Model%20for%20Urban%20Spatio-Temporal%20Prediction.pdf)][[slide](./assets/slides/2025/张旭鹤UniST%20A%20Prompt-Empowered%20Universal%20Model%20for%20Urban%20Spatio-Temporal%20Prediction.pdf
 )]
 
 **20240223**
-- 肖永康：MM-Path Multi-modal, Multi-granularity Path Representation Learning—Extended Version.pdf [[paper](./assets/papers/2025/肖永康MM-Path%20Multi-modal%2C%20Multi-granularity%20Path%20Representation%20Learning—Extended%20Version.pdf)][[slide](./assets/slides/2024//庞媛媛MST-GNN：融合“空间多尺度”与“时序多粒度”信息的交通流量预测图神经网络.pdf
+- 肖永康：MM-Path Multi-modal, Multi-granularity Path Representation Learning—Extended Version.pdf [[paper](./assets/papers/2025/肖永康MM-Path%20Multi-modal%2C%20Multi-granularity%20Path%20Representation%20Learning—Extended%20Version.pdf)][[slide](./assets/slides/2025/肖永康MM-Path%20Multi-modal%2C%20Multi-granularity%20Path%20Representation%20Learning—Extended%20Version.pdf
 )]
 
 **其他顶会论文记录**

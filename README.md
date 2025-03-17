@@ -105,11 +105,11 @@
 )]
 
 **20250309**
-- 穆莹：Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks.pdf [[paper](./assets/papers/2025/肖永康MM-Path%20Multi-modal%2C%20Multi-granularity%20Path%20Representation%20Learning—Extended%20Version.pdf)][[slide](./assets/slides/2025/肖永康MM-Path%20Multi-modal%2C%20Multi-granularity%20Path%20Representation%20Learning—Extended%20Version.pdf
+- 穆莹：Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks.pdf [[paper](./assets/papers/2025/穆莹Irregular%20Traffic%20Time%20Series%20Forecasting%20Based%20on%20Asynchronous%20Spatio-Temporal%20Graph%20Convolutional%20Networks.pdf)][[slide](./assets/slides/2025/穆莹Irregular%20Traffic%20Time%20Series%20Forecasting%20Based%20on%20Asynchronous%20Spatio-Temporal%20Graph%20Convolutional%20Networks.pdf
 )]
 
 **20250316**
-- 韦浩文：Graph Mixture of Experts and Memory-augmented Routers for Multivariate Time Series Anomaly Detection.pdf [[paper](./assets/papers/2025/肖永康MM-Path%20Multi-modal%2C%20Multi-granularity%20Path%20Representation%20Learning—Extended%20Version.pdf)][[slide](./assets/slides/2025/肖永康MM-Path%20Multi-modal%2C%20Multi-granularity%20Path%20Representation%20Learning—Extended%20Version.pdf
+- 韦浩文：Graph Mixture of Experts and Memory-augmented Routers for Multivariate Time Series Anomaly Detection.pdf [[paper](./assets/papers/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf)][[slide](./assets/slides/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf
 )]
 
 **其他顶会论文记录**

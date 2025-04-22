@@ -113,13 +113,13 @@
 )]
 
 **20250323**
-- 肖永康：ASurvey of Knowledge Graph Reasoning on Graph  Types Static, Dynamic, and Multi-Modal.pdf [[paper](./assets/papers/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf)][[slide](./assets/slides/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf
+- 肖永康：ASurvey of Knowledge Graph Reasoning on Graph  Types Static, Dynamic, and Multi-Modal.pdf [[paper](./assets/papers/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf)][[slide](./main/assets/slides/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf
 )]
 
 **20250413**
-- 穆莹：KNOWNET Guided Health Information Seeking from LLMs  via Knowledge Graph Integration.pdf [[paper](./assets/papers/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf)][[slide](./assets/slides/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf
+- 穆莹：KNOWNET Guided Health Information Seeking from LLMs  via Knowledge Graph Integration.pdf [[paper](./assets/papers/2025/穆莹KNOWNET%20Guided%20Health%20Information%20Seeking%20from%20LLMs%20%20via%20Knowledge%20Graph%20Integration.pdf)][[slide](./assets/slides/2025/穆莹KNOWNET%20Guided%20Health%20Information%20Seeking%20from%20LLMs%20%20via%20Knowledge%20Graph%20Integration.pdf
 )]
-- 张旭鹤：Multi-modal Time Series Analysis A Tutorial and Survey.pdf [[paper](./assets/papers/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf)][[slide](./assets/slides/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf
+- 张旭鹤：Multi-modal Time Series Analysis A Tutorial and Survey.pdf [[paper](./assets/papers/2025/张旭鹤Multi-modal%20Time%20Series%20Analysis%20A%20Tutorial%20and%20Survey.pdf)][[slide](./assets/slides/2025/张旭鹤Multi-modal%20Time%20Series%20Analysis%20A%20Tutorial%20and%20Survey.pdf
 )]
 
 **其他顶会论文记录**

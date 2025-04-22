@@ -112,6 +112,16 @@
 - 韦浩文：Graph Mixture of Experts and Memory-augmented Routers for Multivariate Time Series Anomaly Detection.pdf [[paper](./assets/papers/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf)][[slide](./assets/slides/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf
 )]
 
+**20250323**
+- 肖永康：ASurvey of Knowledge Graph Reasoning on Graph  Types Static, Dynamic, and Multi-Modal.pdf [[paper](./assets/papers/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf)][[slide](./assets/slides/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf
+)]
+
+**20250413**
+- 穆莹：KNOWNET Guided Health Information Seeking from LLMs  via Knowledge Graph Integration.pdf [[paper](./assets/papers/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf)][[slide](./assets/slides/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf
+)]
+- 张旭鹤：Multi-modal Time Series Analysis A Tutorial and Survey.pdf [[paper](./assets/papers/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf)][[slide](./assets/slides/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf
+)]
+
 **其他顶会论文记录**
 
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

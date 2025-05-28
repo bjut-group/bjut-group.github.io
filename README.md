@@ -113,7 +113,7 @@
 )]
 
 **20250323**
-- 肖永康：ASurvey of Knowledge Graph Reasoning on Graph  Types Static, Dynamic, and Multi-Modal.pdf [[paper](./assets/papers/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf)][[slide](./main/assets/slides/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf
+- 肖永康：ASurvey of Knowledge Graph Reasoning on Graph  Types Static, Dynamic, and Multi-Modal.pdf [[paper](./assets/papers/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf)][[slide](./assets/slides/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf
 )]
 
 **20250413**
@@ -123,11 +123,11 @@
 )]
 
 **20250511**
-- 庞媛媛：A Graph Representation Learning Approach for Imbalanced Ship Type Recognition Using AIS Trajectory Data.pdf [[paper](./assets/papers/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf)][[slide](./main/assets/slides/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf
+- 庞媛媛：A Graph Representation Learning Approach for Imbalanced Ship Type Recognition Using AIS Trajectory Data.pdf [[paper](./assets/papers/2025/庞媛媛A%20Graph%20Representation%20Learning%20Approach%20for%20Imbalanced%20Ship%20Type%20Recognition%20Using%20AISTrajectory%20Data.pdf)][[slide](./assets/slides/2025/庞媛媛A%20Graph%20Representation%20Learning%20Approach%20for%20Imbalanced%20Ship%20Type%20Recognition%20Using%20AIS%20Trajectory%20Data.pdf
 )]
 
 **20250525**
-- 白云迪：More Than Routing Joint GPS and Route Modeling for Refine Trajectory Representation Learning.pdf [[paper](./assets/papers/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf)][[slide](./main/assets/slides/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf
+- 白云迪：More Than Routing Joint GPS and Route Modeling for Refine Trajectory Representation Learning.pdf [[paper](./assets/papers/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine%20Trajectory%20Representation%20Learning.pdf)][[slide](./assets/slides/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine.pdf
 )]
 
 **其他顶会论文记录**

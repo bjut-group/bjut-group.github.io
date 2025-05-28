@@ -122,6 +122,14 @@
 - 张旭鹤：Multi-modal Time Series Analysis A Tutorial and Survey.pdf [[paper](./assets/papers/2025/张旭鹤Multi-modal%20Time%20Series%20Analysis%20A%20Tutorial%20and%20Survey.pdf)][[slide](./assets/slides/2025/张旭鹤Multi-modal%20Time%20Series%20Analysis%20A%20Tutorial%20and%20Survey.pdf
 )]
 
+**20250511**
+- 庞媛媛：A Graph Representation Learning Approach for Imbalanced Ship Type Recognition Using AIS Trajectory Data.pdf [[paper](./assets/papers/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf)][[slide](./main/assets/slides/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf
+)]
+
+**20250525**
+- 白云迪：More Than Routing Joint GPS and Route Modeling for Refine Trajectory Representation Learning.pdf [[paper](./assets/papers/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf)][[slide](./main/assets/slides/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf
+)]
+
 **其他顶会论文记录**
 
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

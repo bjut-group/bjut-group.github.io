@@ -131,11 +131,11 @@
 )]
 
 **20250608**
-- 薛彤：Deep learning for time series forecasting a survey.pdf [[paper](./assets/papers/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine%20Trajectory%20Representation%20Learning.pdf)][[slide](./assets/slides/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine%20Trajectory%20Representation%20Learning.pdf
+- 薛彤：Deep learning for time series forecasting a survey.pdf [[paper](./assets/papers/2025/薛彤Deep%20learning%20for%20time%20series%20forecasting%20a%20survey.pdf)][[slide](./assets/slides/2025/薛彤Deep%20learning%20for%20time%20series%20forecasting%20a%20survey.pdf
 )]
 
 **20250706**
-- 闫林枝Prodiff.pdf [[paper](./assets/papers/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine%20Trajectory%20Representation%20Learning.pdf)][[slide](./assets/slides/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine%20Trajectory%20Representation%20Learning.pdf
+- 闫林枝Prodiff.pdf [[paper](./assets/papers/2025/闫林枝Prodiff.pdf)][[slide](./assets/slides/2025/闫林枝Prodiff.pdf
 )]
 
 **其他顶会论文记录**

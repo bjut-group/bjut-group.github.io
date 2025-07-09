@@ -130,6 +130,14 @@
 - 白云迪：More Than Routing Joint GPS and Route Modeling for Refine Trajectory Representation Learning.pdf [[paper](./assets/papers/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine%20Trajectory%20Representation%20Learning.pdf)][[slide](./assets/slides/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine%20Trajectory%20Representation%20Learning.pdf
 )]
 
+**20250608**
+- 薛彤：Deep learning for time series forecasting a survey.pdf [[paper](./assets/papers/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine%20Trajectory%20Representation%20Learning.pdf)][[slide](./assets/slides/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine%20Trajectory%20Representation%20Learning.pdf
+)]
+
+**20250706**
+- 闫林枝Prodiff.pdf [[paper](./assets/papers/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine%20Trajectory%20Representation%20Learning.pdf)][[slide](./assets/slides/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine%20Trajectory%20Representation%20Learning.pdf
+)]
+
 **其他顶会论文记录**
 
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

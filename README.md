@@ -138,6 +138,20 @@
 - 闫林枝Prodiff.pdf [[paper](./assets/papers/2025/闫林枝Prodiff.pdf)][[slide](./assets/slides/2025/闫林枝Prodiff.pdf
 )]
 
+**20250727**
+- 肖永康Prodiff.pdf [[paper](./assets/papers/2025/闫林枝Prodiff.pdf)][[slide](./assets/slides/2025/闫林枝Prodiff.pdf
+)]
+
+**20250803**
+- 穆莹Prodiff.pdf [[paper](./assets/papers/2025/闫林枝Prodiff.pdf)][[slide](./assets/slides/2025/闫林枝Prodiff.pdf
+)]
+
+**20250810**
+- 韦浩文.pdf [[paper](./assets/papers/2025/闫林枝Prodiff.pdf)][[slide](./assets/slides/2025/闫林枝Prodiff.pdf
+)]
+- 韦浩文.pdf [[paper](./assets/papers/2025/闫林枝Prodiff.pdf)][[slide](./assets/slides/2025/闫林枝Prodiff.pdf
+)]
+
 **其他顶会论文记录**
 
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

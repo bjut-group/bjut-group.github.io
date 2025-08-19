@@ -139,17 +139,17 @@
 )]
 
 **20250727**
-- 肖永康Prodiff.pdf [[paper](./assets/papers/2025/闫林枝Prodiff.pdf)][[slide](./assets/slides/2025/闫林枝Prodiff.pdf
+- 肖永康Prodiff.pdf [[paper](./assets/papers/2025/肖永康TrAISformer.pdf)][[slide](./assets/slides/2025/肖永康TrAISformer.pdf
 )]
 
 **20250803**
-- 穆莹Prodiff.pdf [[paper](./assets/papers/2025/闫林枝Prodiff.pdf)][[slide](./assets/slides/2025/闫林枝Prodiff.pdf
+- 穆莹Prodiff.pdf [[paper](./assets/papers/2025/穆莹细粒度多模态分子图表示学习.pdf)][[slide](./assets/slides/2025/穆莹细粒度多模态分子图表示学习.pdf
 )]
 
 **20250810**
-- 韦浩文.pdf [[paper](./assets/papers/2025/闫林枝Prodiff.pdf)][[slide](./assets/slides/2025/闫林枝Prodiff.pdf
+- 韦浩文.pdf [[paper](./assets/papers/2025/韦浩文STP-TrellisNets%2B.pdf)][[slide](./assets/slides/2025/韦浩文STP-TrellisNets%2B.pdf
 )]
-- 韦浩文.pdf [[paper](./assets/papers/2025/闫林枝Prodiff.pdf)][[slide](./assets/slides/2025/闫林枝Prodiff.pdf
+- 韦浩文.pdf [[paper](./assets/papers/2025/韦浩文Stochastic%20Diffusion.pdf)][[slide](./assets/slides/2025/韦浩文Stochastic%20Diffusion.pdf
 )]
 
 **其他顶会论文记录**

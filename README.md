@@ -152,6 +152,20 @@
 - 韦浩文：Stochastic Diffusion.pdf [[paper](./assets/papers/2025/韦浩文Stochastic%20Diffusion.pdf)][[slide](./assets/slides/2025/韦浩文Stochastic%20Diffusion.pdf
 )]
 
+**20250824**
+- 张旭鹤：Does Multimodality Lead to Better.pdf [[paper](./assets/papers/2025/张旭鹤_Does%20Multimodality%20Lead%20to%20Better.pdf)][[slide](./assets/slides/2025/张旭鹤_Does%20Multimodality%20Lead%20to%20Better.pdf
+)]
+
+# 2025年秋季学期
+
+**20250831**
+- 庞媛媛：基于图神经网络的复杂时空数据挖掘方法综述 [[paper](./assets/papers/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
+)]
+
+**20250907**
+- 薛彤_Llgformer Learnable long-range graph transformer for traffic flow prediction.pdf [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
+)]
+
 **其他顶会论文记录**
 
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

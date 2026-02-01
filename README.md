@@ -166,6 +166,30 @@
 - 薛彤_Llgformer Learnable long-range graph transformer for traffic flow prediction.pdf [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
 )]
 
+**20251012**
+- 白云迪：基于图神经网络的复杂时空数据挖掘方法综述 [[paper](./assets/papers/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
+)]
+
+**20251019**
+- 闫林枝Llgformer Learnable long-range graph transformer for traffic flow prediction.pdf [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
+)]
+
+**20251109**
+- 韦浩文：基于图神经网络的复杂时空数据挖掘方法综述 [[paper](./assets/papers/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
+)]
+
+**20251123**
+- 肖永康Llgformer Learnable long-range graph transformer for traffic flow prediction.pdf [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
+)]
+
+**20251130**
+- 张旭鹤：基于图神经网络的复杂时空数据挖掘方法综述 [[paper](./assets/papers/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
+)]
+
+**20251207**
+- 穆莹Llgformer Learnable long-range graph transformer for traffic flow prediction.pdf [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
+)]
+
 **其他顶会论文记录**
 
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

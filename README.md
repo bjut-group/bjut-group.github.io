@@ -79,81 +79,81 @@
 )]
 
 **20241110**
-- 闫林枝：TFB：Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Method.pdf [[paper](./assets/papers/2024/闫林枝TFB：Towards%20Comprehensive%20and%20Fair%20Benchmarking%20of%20Time%20Series%20Forecasting%20Method.pdf)][[slide](./assets/slides/2024/闫林枝TFB：Towards%20Comprehensive%20and%20Fair%20Benchmarking%20of%20Time%20Series%20Forecasting%20Method.pdf
+- 闫林枝：TFB：Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Method [[paper](./assets/papers/2024/闫林枝TFB：Towards%20Comprehensive%20and%20Fair%20Benchmarking%20of%20Time%20Series%20Forecasting%20Method.pdf)][[slide](./assets/slides/2024/闫林枝TFB：Towards%20Comprehensive%20and%20Fair%20Benchmarking%20of%20Time%20Series%20Forecasting%20Method.pdf
 )]
 
 **20241124**
-- 庞媛媛：MST-GNN graph neural network with multi-granularity in space and time for traffic prediction.pdf [[paper](./assets/papers/2024/庞媛媛MST-GNN%20graph%20neural%20network%20with%20multi-granularity%20in%20space%20and%20time%20for%20traffic%20prediction.pdf)][[slide](./assets/slides/2024//庞媛媛MST-GNN：融合“空间多尺度”与“时序多粒度”信息的交通流量预测图神经网络.pdf
+- 庞媛媛：MST-GNN graph neural network with multi-granularity in space and time for traffic prediction [[paper](./assets/papers/2024/庞媛媛MST-GNN%20graph%20neural%20network%20with%20multi-granularity%20in%20space%20and%20time%20for%20traffic%20prediction.pdf)][[slide](./assets/slides/2024//庞媛媛MST-GNN：融合“空间多尺度”与“时序多粒度”信息的交通流量预测图神经网络.pdf
 )]
 
 **20241201**
-- 白云迪：Urban region representation learning with human trajectories a multi-view approach incorporating transition spatial and temporal perspectives.pdf [[paper](./assets/papers/2024/白云迪Urban%20region%20representation%20learning%20with%20human%20trajectories%20%20a%20multi-view%20approach%20incorporating%20transition%20%20spatial%20%20and%20temporal%20perspectives.pdf)][[slide](./assets/slides/2024//白云迪Urban%20region%20representation%20learning%20with%20human%20trajectories%20a%20multi-view%20approach%20incorporating%20transition%20spatial%20and%20temporal%20perspectives.pdf
+- 白云迪：Urban region representation learning with human trajectories a multi-view approach incorporating transition spatial and temporal perspectives [[paper](./assets/papers/2024/白云迪Urban%20region%20representation%20learning%20with%20human%20trajectories%20%20a%20multi-view%20approach%20incorporating%20transition%20%20spatial%20%20and%20temporal%20perspectives.pdf)][[slide](./assets/slides/2024//白云迪Urban%20region%20representation%20learning%20with%20human%20trajectories%20a%20multi-view%20approach%20incorporating%20transition%20spatial%20and%20temporal%20perspectives.pdf
 )]
 
 # 2025年春季学期
 
 **20250112**
-- 韦浩文：Interpretable Clustering A Survey.pdf [[paper](./assets/papers/2025/韦浩文Interpretable%20Clustering%20A%20Survey.pdf)][[slide](./assets/slides/2025/韦浩文Interpretable%20Clustering%20A%20Survey.pdf
+- 韦浩文：Interpretable Clustering A Survey [[paper](./assets/papers/2025/韦浩文Interpretable%20Clustering%20A%20Survey.pdf)][[slide](./assets/slides/2025/韦浩文Interpretable%20Clustering%20A%20Survey.pdf
 )]
 
 **20250216**
-- 张旭鹤：UniST A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction.pdf [[paper](./assets/papers/2025/张旭鹤UniST%20A%20Prompt-Empowered%20Universal%20Model%20for%20Urban%20Spatio-Temporal%20Prediction.pdf)][[slide](./assets/slides/2025/张旭鹤UniST%20A%20Prompt-Empowered%20Universal%20Model%20for%20Urban%20Spatio-Temporal%20Prediction.pdf
+- 张旭鹤：UniST A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction [[paper](./assets/papers/2025/张旭鹤UniST%20A%20Prompt-Empowered%20Universal%20Model%20for%20Urban%20Spatio-Temporal%20Prediction.pdf)][[slide](./assets/slides/2025/张旭鹤UniST%20A%20Prompt-Empowered%20Universal%20Model%20for%20Urban%20Spatio-Temporal%20Prediction.pdf
 )]
 
 **20250223**
-- 肖永康：MM-Path Multi-modal, Multi-granularity Path Representation Learning—Extended Version.pdf [[paper](./assets/papers/2025/肖永康MM-Path%20Multi-modal%2C%20Multi-granularity%20Path%20Representation%20Learning—Extended%20Version.pdf)][[slide](./assets/slides/2025/肖永康MM-Path%20Multi-modal%2C%20Multi-granularity%20Path%20Representation%20Learning—Extended%20Version.pdf
+- 肖永康：MM-Path Multi-modal, Multi-granularity Path Representation Learning—Extended Version [[paper](./assets/papers/2025/肖永康MM-Path%20Multi-modal%2C%20Multi-granularity%20Path%20Representation%20Learning—Extended%20Version.pdf)][[slide](./assets/slides/2025/肖永康MM-Path%20Multi-modal%2C%20Multi-granularity%20Path%20Representation%20Learning—Extended%20Version.pdf
 )]
 
 **20250309**
-- 穆莹：Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks.pdf [[paper](./assets/papers/2025/穆莹Irregular%20Traffic%20Time%20Series%20Forecasting%20Based%20on%20Asynchronous%20Spatio-Temporal%20Graph%20Convolutional%20Networks.pdf)][[slide](./assets/slides/2025/穆莹Irregular%20Traffic%20Time%20Series%20Forecasting%20Based%20on%20Asynchronous%20Spatio-Temporal%20Graph%20Convolutional%20Networks.pdf
+- 穆莹：Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks [[paper](./assets/papers/2025/穆莹Irregular%20Traffic%20Time%20Series%20Forecasting%20Based%20on%20Asynchronous%20Spatio-Temporal%20Graph%20Convolutional%20Networks.pdf)][[slide](./assets/slides/2025/穆莹Irregular%20Traffic%20Time%20Series%20Forecasting%20Based%20on%20Asynchronous%20Spatio-Temporal%20Graph%20Convolutional%20Networks.pdf
 )]
 
 **20250316**
-- 韦浩文：Graph Mixture of Experts and Memory-augmented Routers for Multivariate Time Series Anomaly Detection.pdf [[paper](./assets/papers/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf)][[slide](./assets/slides/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf
+- 韦浩文：Graph Mixture of Experts and Memory-augmented Routers for Multivariate Time Series Anomaly Detection [[paper](./assets/papers/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf)][[slide](./assets/slides/2025/韦浩文Graph%20Mixture%20of%20Experts%20and%20Memory-augmented%20Routers%20for%20Multivariate%20Time%20Series%20Anomaly%20Detection.pdf
 )]
 
 **20250323**
-- 肖永康：ASurvey of Knowledge Graph Reasoning on Graph  Types Static, Dynamic, and Multi-Modal.pdf [[paper](./assets/papers/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf)][[slide](./assets/slides/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf
+- 肖永康：ASurvey of Knowledge Graph Reasoning on Graph  Types Static, Dynamic, and Multi-Modal [[paper](./assets/papers/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf)][[slide](./assets/slides/2025/肖永康%20ASurvey%20of%20Knowledge%20Graph%20Reasoning%20on%20Graph%20%20Types%20Static%2C%20Dynamic%2C%20and%20Multi-Modal%20.pdf
 )]
 
 **20250413**
-- 穆莹：KNOWNET Guided Health Information Seeking from LLMs  via Knowledge Graph Integration.pdf [[paper](./assets/papers/2025/穆莹KNOWNET%20Guided%20Health%20Information%20Seeking%20from%20LLMs%20%20via%20Knowledge%20Graph%20Integration.pdf)][[slide](./assets/slides/2025/穆莹KNOWNET%20Guided%20Health%20Information%20Seeking%20from%20LLMs%20%20via%20Knowledge%20Graph%20Integration.pdf
+- 穆莹：KNOWNET Guided Health Information Seeking from LLMs  via Knowledge Graph Integration [[paper](./assets/papers/2025/穆莹KNOWNET%20Guided%20Health%20Information%20Seeking%20from%20LLMs%20%20via%20Knowledge%20Graph%20Integration.pdf)][[slide](./assets/slides/2025/穆莹KNOWNET%20Guided%20Health%20Information%20Seeking%20from%20LLMs%20%20via%20Knowledge%20Graph%20Integration.pdf
 )]
-- 张旭鹤：Multi-modal Time Series Analysis A Tutorial and Survey.pdf [[paper](./assets/papers/2025/张旭鹤Multi-modal%20Time%20Series%20Analysis%20A%20Tutorial%20and%20Survey.pdf)][[slide](./assets/slides/2025/张旭鹤Multi-modal%20Time%20Series%20Analysis%20A%20Tutorial%20and%20Survey.pdf
+- 张旭鹤：Multi-modal Time Series Analysis A Tutorial and Survey [[paper](./assets/papers/2025/张旭鹤Multi-modal%20Time%20Series%20Analysis%20A%20Tutorial%20and%20Survey.pdf)][[slide](./assets/slides/2025/张旭鹤Multi-modal%20Time%20Series%20Analysis%20A%20Tutorial%20and%20Survey.pdf
 )]
 
 **20250511**
-- 庞媛媛：A Graph Representation Learning Approach for Imbalanced Ship Type Recognition Using AIS Trajectory Data.pdf [[paper](./assets/papers/2025/庞媛媛A%20Graph%20Representation%20Learning%20Approach%20for%20Imbalanced%20Ship%20Type%20Recognition%20Using%20AISTrajectory%20Data.pdf)][[slide](./assets/slides/2025/庞媛媛A%20Graph%20Representation%20Learning%20Approach%20for%20Imbalanced%20Ship%20Type%20Recognition%20Using%20AIS%20Trajectory%20Data.pdf
+- 庞媛媛：A Graph Representation Learning Approach for Imbalanced Ship Type Recognition Using AIS Trajectory Data [[paper](./assets/papers/2025/庞媛媛A%20Graph%20Representation%20Learning%20Approach%20for%20Imbalanced%20Ship%20Type%20Recognition%20Using%20AISTrajectory%20Data.pdf)][[slide](./assets/slides/2025/庞媛媛A%20Graph%20Representation%20Learning%20Approach%20for%20Imbalanced%20Ship%20Type%20Recognition%20Using%20AIS%20Trajectory%20Data.pdf
 )]
 
 **20250525**
-- 白云迪：More Than Routing Joint GPS and Route Modeling for Refine Trajectory Representation Learning.pdf [[paper](./assets/papers/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine%20Trajectory%20Representation%20Learning.pdf)][[slide](./assets/slides/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine%20Trajectory%20Representation%20Learning.pdf
+- 白云迪：More Than Routing Joint GPS and Route Modeling for Refine Trajectory Representation Learning [[paper](./assets/papers/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine%20Trajectory%20Representation%20Learning.pdf)][[slide](./assets/slides/2025/白云迪More%20Than%20Routing%20Joint%20GPS%20and%20Route%20Modeling%20for%20Refine%20Trajectory%20Representation%20Learning.pdf
 )]
 
 **20250608**
-- 薛彤：Deep learning for time series forecasting a survey.pdf [[paper](./assets/papers/2025/薛彤Deep%20learning%20for%20time%20series%20forecasting%20a%20survey.pdf)][[slide](./assets/slides/2025/薛彤Deep%20learning%20for%20time%20series%20forecasting%20a%20survey.pdf
+- 薛彤：Deep learning for time series forecasting a survey [[paper](./assets/papers/2025/薛彤Deep%20learning%20for%20time%20series%20forecasting%20a%20survey.pdf)][[slide](./assets/slides/2025/薛彤Deep%20learning%20for%20time%20series%20forecasting%20a%20survey.pdf
 )]
 
 **20250706**
-- 闫林枝：Prodiff.pdf [[paper](./assets/papers/2025/闫林枝Prodiff.pdf)][[slide](./assets/slides/2025/闫林枝Prodiff.pdf
+- 闫林枝：Prodiff [[paper](./assets/papers/2025/闫林枝Prodiff.pdf)][[slide](./assets/slides/2025/闫林枝Prodiff.pdf
 )]
 
 **20250727**
-- 肖永康：TrAISformer.pdf [[paper](./assets/papers/2025/肖永康TrAISformer.pdf)][[slide](./assets/slides/2025/肖永康TrAISformer.pdf
+- 肖永康：TrAISformer [[paper](./assets/papers/2025/肖永康TrAISformer.pdf)][[slide](./assets/slides/2025/肖永康TrAISformer.pdf
 )]
 
 **20250803**
-- 穆莹：细粒度多模态分子图表示学习.pdf [[paper](./assets/papers/2025/穆莹细粒度多模态分子图表示学习.pdf)][[slide](./assets/slides/2025/穆莹细粒度多模态分子图表示学习.pdf
+- 穆莹：细粒度多模态分子图表示学习 [[paper](./assets/papers/2025/穆莹细粒度多模态分子图表示学习.pdf)][[slide](./assets/slides/2025/穆莹细粒度多模态分子图表示学习.pdf
 )]
 
 **20250810**
-- 韦浩文：STP-TrellisNets+.pdf [[paper](./assets/papers/2025/韦浩文STP-TrellisNets%2B.pdf)][[slide](./assets/slides/2025/韦浩文STP-TrellisNets%2B.pdf
+- 韦浩文：STP-TrellisNets+ [[paper](./assets/papers/2025/韦浩文STP-TrellisNets%2B.pdf)][[slide](./assets/slides/2025/韦浩文STP-TrellisNets%2B.pdf
 )]
-- 韦浩文：Stochastic Diffusion.pdf [[paper](./assets/papers/2025/韦浩文Stochastic%20Diffusion.pdf)][[slide](./assets/slides/2025/韦浩文Stochastic%20Diffusion.pdf
+- 韦浩文：Stochastic Diffusion [[paper](./assets/papers/2025/韦浩文Stochastic%20Diffusion.pdf)][[slide](./assets/slides/2025/韦浩文Stochastic%20Diffusion.pdf
 )]
 
 **20250824**
-- 张旭鹤：Does Multimodality Lead to Better.pdf [[paper](./assets/papers/2025/张旭鹤_Does%20Multimodality%20Lead%20to%20Better.pdf)][[slide](./assets/slides/2025/张旭鹤_Does%20Multimodality%20Lead%20to%20Better.pdf
+- 张旭鹤：Does Multimodality Lead to Better [[paper](./assets/papers/2025/张旭鹤_Does%20Multimodality%20Lead%20to%20Better.pdf)][[slide](./assets/slides/2025/张旭鹤_Does%20Multimodality%20Lead%20to%20Better.pdf
 )]
 
 # 2025年秋季学期
@@ -163,31 +163,31 @@
 )]
 
 **20250907**
-- 薛彤_Llgformer Learnable long-range graph transformer for traffic flow prediction.pdf [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
+- 薛彤:Llgformer Learnable long-range graph transformer for traffic flow prediction [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
 )]
 
 **20251012**
-- 白云迪：基于图神经网络的复杂时空数据挖掘方法综述 [[paper](./assets/papers/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
+- 白云迪：UniTR A Unified Framework for Joint Representation Learning of Trajectories and Road Networks [[paper](./assets/papers/2025/白云迪UniTR%20A%20Unified%20Framework%20for%20Joint%20Representation%20Learning%20of%20Trajectories%20and%20Road%20Networks.pdf)][[slide](./assets/slides/2025/白云迪UniTR%20A%20Unified%20Framework%20for%20Joint%20Representation%20Learning%20of%20Trajectories%20and%20Road%20Networks.pdf
 )]
 
 **20251019**
-- 闫林枝Llgformer Learnable long-range graph transformer for traffic flow prediction.pdf [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
+- 闫林枝深度学习在数据插补上的应用 [[slide](./assets/slides/2025/闫林枝深度学习在数据插补上的应用.pdf
 )]
 
 **20251109**
-- 韦浩文：基于图神经网络的复杂时空数据挖掘方法综述 [[paper](./assets/papers/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
+- 韦浩文：TransferTraj A Vehicle Trajectory Learning Model  for Region and Task Transferability [[paper](./assets/papers/2025/韦浩文TransferTraj%20A%20Vehicle%20Trajectory%20Learning%20Model%20%20for%20Region%20and%20Task%20Transferability.pdf)][[slide](./assets/slides/2025/韦浩文TransferTraj%20A%20Vehicle%20Trajectory%20Learning%20Model%20%20for%20Region%20and%20Task%20Transferability.pdf
 )]
 
 **20251123**
-- 肖永康Llgformer Learnable long-range graph transformer for traffic flow prediction.pdf [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
+- 肖永康：Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting [[paper](./assets/papers/2025/肖永康Multi-Modal%20View%20Enhanced%20Large%20Vision%20Models%20for%20Long-Term%20Time%20Series%20Forecasting.pdf)][[slide](./assets/slides/2025/肖永康Multi-Modal%20View%20Enhanced%20Large%20Vision%20Models%20for%20Long-Term%20Time%20Series%20Forecasting.pdf
 )]
 
 **20251130**
-- 张旭鹤：基于图神经网络的复杂时空数据挖掘方法综述 [[paper](./assets/papers/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
+- 张旭鹤:Integrating spoken instructions into flight trajectory prediction to optimize  automation in air traffic control [[paper](./assets/papers/2025/张旭鹤Integrating%20spoken%20instructions%20into%20flight%20trajectory%20prediction%20to%20optimize%20automation%20in%20air%20trafffic%20control.pdf)][[slide](./assets/slides/2025/张旭鹤Integrating%20spoken%20instructions%20into%20flight%20trajectory%20prediction%20to%20optimize%20%20automation%20in%20air%20traffic%20control.pdf
 )]
 
 **20251207**
-- 穆莹Llgformer Learnable long-range graph transformer for traffic flow prediction.pdf [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
+- 穆莹:A Comprehensive Survey of Time Series [[paper](./assets/papers/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf)][[slide](./assets/slides/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf
 )]
 
 **其他顶会论文记录**

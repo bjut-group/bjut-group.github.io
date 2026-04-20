@@ -171,7 +171,7 @@
 )]
 
 **20251019**
-- 闫林枝深度学习在数据插补上的应用 [[slide](./assets/slides/2025/闫林枝深度学习在数据插补上的应用.pdf
+- 闫林枝：深度学习在数据插补上的应用 [[slide](./assets/slides/2025/闫林枝深度学习在数据插补上的应用.pdf
 )]
 
 **20251109**
@@ -183,11 +183,11 @@
 )]
 
 **20251130**
-- 张旭鹤:Integrating spoken instructions into flight trajectory prediction to optimize  automation in air traffic control [[paper](./assets/papers/2025/张旭鹤Integrating%20spoken%20instructions%20into%20flight%20trajectory%20prediction%20to%20optimize%20automation%20in%20air%20trafffic%20control.pdf)][[slide](./assets/slides/2025/张旭鹤Integrating%20spoken%20instructions%20into%20flight%20trajectory%20prediction%20to%20optimize%20%20automation%20in%20air%20traffic%20control.pdf
+- 张旭鹤：Integrating spoken instructions into flight trajectory prediction to optimize  automation in air traffic control [[paper](./assets/papers/2025/张旭鹤Integrating%20spoken%20instructions%20into%20flight%20trajectory%20prediction%20to%20optimize%20automation%20in%20air%20trafffic%20control.pdf)][[slide](./assets/slides/2025/张旭鹤Integrating%20spoken%20instructions%20into%20flight%20trajectory%20prediction%20to%20optimize%20%20automation%20in%20air%20traffic%20control.pdf
 )]
 
 **20251207**
-- 穆莹:A Comprehensive Survey of Time Series [[paper](./assets/papers/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf)][[slide](./assets/slides/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf
+- 穆莹：A Comprehensive Survey of Time Series [[paper](./assets/papers/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf)][[slide](./assets/slides/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf
 )]
 
 **其他顶会论文记录**

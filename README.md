@@ -163,7 +163,7 @@
 )]
 
 **20250907**
-- 薛彤:Llgformer Learnable long-range graph transformer for traffic flow prediction [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
+- 薛彤：Llgformer Learnable long-range graph transformer for traffic flow prediction [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
 )]
 
 **20251012**

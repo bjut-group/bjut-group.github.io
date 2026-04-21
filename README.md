@@ -190,6 +190,57 @@
 - 穆莹：A Comprehensive Survey of Time Series [[paper](./assets/papers/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf)][[slide](./assets/slides/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf
 )]
 
+# 2026年春季学期
+
+**20260113**
+- 徐振兴：TrajMamba An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model [[paper](./assets/papers/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
+)]
+
+**20260118**
+- 张志航：MTP Exploring Multimodal Urban Traffic Profiling Augmentation and Spectrum Fusion [[paper](./assets/papers/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
+)]
+
+**20260118**
+- 张志航：CLDGCN contrastive learning based deeper graph convolutional network for traffic flow data prediction [[paper](./assets/papers/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
+)]
+
+**20260201**
+- 胥骏超：Recent Advances in Discrete Speech Tokens A  Review [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
+)]
+
+**20260201**
+- 胥骏超：FlowSE_Flow_Matching-based_Speech_Enhancement [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
+)]
+
+**20260208**
+- 韦浩文：Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction [[paper](./assets/papers/2025/白云迪UniTR%20A%20Unified%20Framework%20for%20Joint%20Representation%20Learning%20of%20Trajectories%20and%20Road%20Networks.pdf)][[slide](./assets/slides/2025/白云迪UniTR%20A%20Unified%20Framework%20for%20Joint%20Representation%20Learning%20of%20Trajectories%20and%20Road%20Networks.pdf
+)]
+
+**20260301**
+- 张旭鹤：Qwen3-ASR Technical Report [[slide](./assets/slides/2025/闫林枝深度学习在数据插补上的应用.pdf
+)]
+
+**20260315**
+- 肖永康：HetETA Heterogeneous Information Network Embedding for Estimating Time of Arrival [[paper](./assets/papers/2025/韦浩文TransferTraj%20A%20Vehicle%20Trajectory%20Learning%20Model%20%20for%20Region%20and%20Task%20Transferability.pdf)][[slide](./assets/slides/2025/韦浩文TransferTraj%20A%20Vehicle%20Trajectory%20Learning%20Model%20%20for%20Region%20and%20Task%20Transferability.pdf
+)]
+
+**20260322**
+- 穆莹：Harnessing Vision-Language Models for Time Series Anomaly Detection [[paper](./assets/papers/2025/肖永康Multi-Modal%20View%20Enhanced%20Large%20Vision%20Models%20for%20Long-Term%20Time%20Series%20Forecasting.pdf)][[slide](./assets/slides/2025/肖永康Multi-Modal%20View%20Enhanced%20Large%20Vision%20Models%20for%20Long-Term%20Time%20Series%20Forecasting.pdf
+)]
+
+**20260329**
+- 张志航：VecCity A Taxonomy-guided Library for Map Entity  Representation Learning 
+ [[paper](./assets/papers/2025/张旭鹤Integrating%20spoken%20instructions%20into%20flight%20trajectory%20prediction%20to%20optimize%20automation%20in%20air%20trafffic%20control.pdf)][[slide](./assets/slides/2025/张旭鹤Integrating%20spoken%20instructions%20into%20flight%20trajectory%20prediction%20to%20optimize%20%20automation%20in%20air%20traffic%20control.pdf
+)]
+
+**20260412**
+- 徐振兴：CLIP2RS Leveraging Pretrained Vision-Language  Model for Semantic Segmentation of Remote Sensing Images [[paper](./assets/papers/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf)][[slide](./assets/slides/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf
+)]
+
+**20260419**
+- 徐振兴Transformer-Based RGB-T Tracking With Channel and Spatial Feature Fusion [[paper](./assets/papers/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf)][[slide](./assets/slides/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf
+)]
+
 **其他顶会论文记录**
 
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

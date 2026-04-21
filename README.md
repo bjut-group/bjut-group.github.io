@@ -193,52 +193,53 @@
 # 2026年春季学期
 
 **20260113**
-- 徐振兴：TrajMamba An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model [[paper](./assets/papers/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
+- 徐振兴：TrajMamba An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model [[paper](./assets/papers/2026/徐振兴TrajMamba%20An%20Efficient%20and%20Semantic-rich%20Vehicle%20Trajectory%20Pre-training%20Model.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
 )]
 
 **20260118**
-- 张志航：MTP Exploring Multimodal Urban Traffic Profiling Augmentation and Spectrum Fusion [[paper](./assets/papers/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
+- 张志航：MTP Exploring Multimodal Urban Traffic Profiling Augmentation and Spectrum Fusion [[paper](./assets/papers/2026/张志航MTP%20Exploring%20Multimodal%20Urban%20Traffic%20Profiling%20Augmentation%20and%20Spectrum%20Fusion.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
 )]
 
 **20260118**
-- 张志航：CLDGCN contrastive learning based deeper graph convolutional network for traffic flow data prediction [[paper](./assets/papers/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
+- 张志航：CLDGCN contrastive learning based deeper graph convolutional network for traffic flow data prediction [[paper](./assets/papers/2026/张志航CLDGCN%20contrastive%20learning%20based%20deeper%20graph%20convolutional%20network%20for%20traffic%20flow%20data%20prediction.pdf)][[slide](./assets/slides/2025/庞媛媛_基于图神经网络的复杂时空数据挖掘方法综述.pdf
 )]
 
 **20260201**
-- 胥骏超：Recent Advances in Discrete Speech Tokens A  Review [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
+- 胥骏超：Recent Advances in Discrete Speech Tokens A  Review [[paper](./assets/papers/2026/胥骏超Recent%20Advances%20in%20Discrete%20Speech%20Tokens%20A%20%20Review.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
 )]
 
 **20260201**
-- 胥骏超：FlowSE_Flow_Matching-based_Speech_Enhancement [[paper](./assets/papers/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
+- 胥骏超：FlowSE_Flow_Matching-based_Speech_Enhancement [[paper](./assets/papers/2026/胥骏超FlowSE_Flow_Matching-based_Speech_Enhancement.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
 )]
 
 **20260208**
-- 韦浩文：Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction [[paper](./assets/papers/2025/白云迪UniTR%20A%20Unified%20Framework%20for%20Joint%20Representation%20Learning%20of%20Trajectories%20and%20Road%20Networks.pdf)][[slide](./assets/slides/2025/白云迪UniTR%20A%20Unified%20Framework%20for%20Joint%20Representation%20Learning%20of%20Trajectories%20and%20Road%20Networks.pdf
+- 韦浩文：Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction [[paper](./assets/papers/2026/韦浩文Dynamic%20Heterogeneous%20Graph%20Neural%20Network%20for%20Real-time%20Event%20Prediction.pdf)][[slide](./assets/slides/2025/白云迪UniTR%20A%20Unified%20Framework%20for%20Joint%20Representation%20Learning%20of%20Trajectories%20and%20Road%20Networks.pdf
 )]
 
 **20260301**
-- 张旭鹤：Qwen3-ASR Technical Report [[slide](./assets/slides/2025/闫林枝深度学习在数据插补上的应用.pdf
+- 张旭鹤：Qwen3-ASR Technical Report [[paper](./assets/papers/2026/张旭鹤Qwen3-ASR%20Technical%20Report.pdf)][[slide](./assets/slides/2025/薛彤_Llgformer%20Learnable%20long-range%20graph%20transformer%20for%20traffic%20flow%20prediction.pdf
 )]
 
 **20260315**
-- 肖永康：HetETA Heterogeneous Information Network Embedding for Estimating Time of Arrival [[paper](./assets/papers/2025/韦浩文TransferTraj%20A%20Vehicle%20Trajectory%20Learning%20Model%20%20for%20Region%20and%20Task%20Transferability.pdf)][[slide](./assets/slides/2025/韦浩文TransferTraj%20A%20Vehicle%20Trajectory%20Learning%20Model%20%20for%20Region%20and%20Task%20Transferability.pdf
+- 肖永康：HetETA Heterogeneous Information Network Embedding for Estimating Time of Arrival [[paper](./assets/papers/2026/肖永康HetETA%20Heterogeneous%20Information%20Network%20Embedding%20for%20Estimating%20Time%20of%20Arrival.pdf)][[slide](./assets/slides/2025/韦浩文TransferTraj%20A%20Vehicle%20Trajectory%20Learning%20Model%20%20for%20Region%20and%20Task%20Transferability.pdf
 )]
 
 **20260322**
-- 穆莹：Harnessing Vision-Language Models for Time Series Anomaly Detection [[paper](./assets/papers/2025/肖永康Multi-Modal%20View%20Enhanced%20Large%20Vision%20Models%20for%20Long-Term%20Time%20Series%20Forecasting.pdf)][[slide](./assets/slides/2025/肖永康Multi-Modal%20View%20Enhanced%20Large%20Vision%20Models%20for%20Long-Term%20Time%20Series%20Forecasting.pdf
+- 穆莹：Harnessing Vision-Language Models for Time Series Anomaly Detection [[paper](./assets/papers/2026/穆莹Harnessing%20Vision-Language%20Models%20for%20Time%20Series%20Anomaly%20Detection.pdf)][[slide](./assets/slides/2025/肖永康Multi-Modal%20View%20Enhanced%20Large%20Vision%20Models%20for%20Long-Term%20Time%20Series%20Forecasting.pdf
 )]
 
 **20260329**
 - 张志航：VecCity A Taxonomy-guided Library for Map Entity  Representation Learning 
- [[paper](./assets/papers/2025/张旭鹤Integrating%20spoken%20instructions%20into%20flight%20trajectory%20prediction%20to%20optimize%20automation%20in%20air%20trafffic%20control.pdf)][[slide](./assets/slides/2025/张旭鹤Integrating%20spoken%20instructions%20into%20flight%20trajectory%20prediction%20to%20optimize%20%20automation%20in%20air%20traffic%20control.pdf
+ [[paper](./assets/papers/2026/张志航VecCity%20A%20Taxonomy-guided%20Library%20for%20Map%20Entity%20%20Representation%20Learning%20.pdf
+)][[slide](./assets/slides/2025/张旭鹤Integrating%20spoken%20instructions%20into%20flight%20trajectory%20prediction%20to%20optimize%20%20automation%20in%20air%20traffic%20control.pdf
 )]
 
 **20260412**
-- 徐振兴：CLIP2RS Leveraging Pretrained Vision-Language  Model for Semantic Segmentation of Remote Sensing Images [[paper](./assets/papers/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf)][[slide](./assets/slides/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf
+- 徐振兴：CLIP2RS Leveraging Pretrained Vision-Language  Model for Semantic Segmentation of Remote Sensing Images [[paper](./assets/papers/2026/徐振兴CLIP2RS%20Leveraging%20Pretrained%20Vision-Language%20%20Model%20for%20Semantic%20Segmentation%20of%20Remote%20Sensing%20Images.pdf)][[slide](./assets/slides/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf
 )]
 
 **20260419**
-- 徐振兴Transformer-Based RGB-T Tracking With Channel and Spatial Feature Fusion [[paper](./assets/papers/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf)][[slide](./assets/slides/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf
+- 徐振兴Transformer-Based RGB-T Tracking With Channel and Spatial Feature Fusion [[paper](./assets/papers/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf)][[slide](./assets/slides/2025/穆莹A%20Comprehensive%20Survey%20of%20Time%20Series.pdf
 )]
 
 **其他顶会论文记录**

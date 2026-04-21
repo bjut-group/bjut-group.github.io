@@ -239,7 +239,7 @@
 )]
 
 **20260419**
-- 徐振兴Transformer-Based RGB-T Tracking With Channel and Spatial Feature Fusion [[paper](./assets/papers/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf)][[slide](./assets/slides/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf
+- 徐振兴：Transformer-Based RGB-T Tracking With Channel and Spatial Feature Fusion [[paper](./assets/papers/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf)][[slide](./assets/slides/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf
 )]
 
 **其他顶会论文记录**

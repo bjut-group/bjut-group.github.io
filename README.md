@@ -205,11 +205,11 @@
 )]
 
 **20260201**
-- 胥骏超：Recent Advances in Discrete Speech Tokens A  Review [[paper](./assets/papers/2026/胥骏超Recent%20Advances%20in%20Discrete%20Speech%20Tokens%20A%20%20Review.pdf)][[slide](./assets/slides/2026/胥骏超Recent%20Advances%20in%20Discrete%20Speech%20Tokens%20A%20%20Review.pdf
+- 胥峻超：Recent Advances in Discrete Speech Tokens A  Review [[paper](./assets/papers/2026/胥骏超Recent%20Advances%20in%20Discrete%20Speech%20Tokens%20A%20%20Review.pdf)][[slide](./assets/slides/2026/胥骏超Recent%20Advances%20in%20Discrete%20Speech%20Tokens%20A%20%20Review.pdf
 )]
 
 **20260201**
-- 胥骏超：FlowSE_Flow_Matching-based_Speech_Enhancement [[paper](./assets/papers/2026/胥骏超FlowSE_Flow_Matching-based_Speech_Enhancement.pdf)][[slide](./assets/slides/2026/胥骏超FlowSE_Flow_Matching-based_Speech_Enhancement.pdf
+- 胥峻超：FlowSE_Flow_Matching-based_Speech_Enhancement [[paper](./assets/papers/2026/胥骏超FlowSE_Flow_Matching-based_Speech_Enhancement.pdf)][[slide](./assets/slides/2026/胥骏超FlowSE_Flow_Matching-based_Speech_Enhancement.pdf
 )]
 
 **20260208**
@@ -240,6 +240,34 @@
 
 **20260419**
 - 徐振兴：Transformer-Based RGB-T Tracking With Channel and Spatial Feature Fusion [[paper](./assets/papers/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf)][[slide](./assets/slides/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf
+)]
+
+**20260505**
+- 胥峻超：A data fusion method for maritime traffic surveillance The fusion of AIS data and VHF speech information [[paper](./assets/papers/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf)][[slide](./assets/slides/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf
+)]
+
+**20260505**
+- 胥峻超：Full-Duplex-Bench A Benchmark to Evaluate Full-Duplex Spoken Dialogue Models on Turn-taking Capabilities [[paper](./assets/papers/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf)][[slide](./assets/slides/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf
+)]
+
+**20260505**
+- 胥峻超：THE ICASSP 2026 HUMDIAL CHALLENGE BENCHMARKING HUMAN-LIKE SPOKEN DIALOGUE SYSTEMS IN THE LLM ERA [[paper](./assets/papers/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf)][[slide](./assets/slides/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf
+)]
+
+**20260524**
+- 张志航：MoST A Foundation Model for Multi-modality Spatio-temporal Traffic Prediction [[paper](./assets/papers/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf)][[slide](./assets/slides/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf
+)]
+
+**20260607**
+- 徐振兴：TIPSv2：Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment [[paper](./assets/papers/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf)][[slide](./assets/slides/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf
+)]
+
+**20260614**
+- 韦浩文：Node Role-Guided LLMs for Dynamic Graph Clustering [[paper](./assets/papers/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf)][[slide](./assets/slides/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf
+)]
+
+**20260628**
+- 肖永康：Advancing Time Series Classification with Multimodal Language Modeling [[paper](./assets/papers/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf)][[slide](./assets/slides/2026/徐振兴Transformer-Based%20RGB-T%20Tracking%20With%20Channel%20and%20Spatial%20Feature%20Fusion.pdf
 )]
 
 **其他顶会论文记录**

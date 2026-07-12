@@ -270,6 +270,12 @@
 - 肖永康：Advancing Time Series Classification with Multimodal Language Modeling [[paper](./assets/papers/2026/肖永康Advancing%20Time%20Series%20Classification%20with%20Multimodal%20Language%20Modeling.pdf)][[slide](./assets/slides/2026/肖永康Advancing%20Time%20Series%20Classification%20with%20Multimodal%20Language%20Modeling.pdf
 )]
 
+**20260705**
+- 张旭鹤：VTS-LLM: Domain-Adaptive LLM Agent for Enhancing Awareness in Vessel Traffic Services through Natural Language [[paper](./assets/papers/2026/张旭鹤VTS-LLM%20Domain-Adaptive%20LLM%20Agent%20for%20Enhancing%20Awareness%20in%20Vessel%20Traffic%20Services%20through%20Natura(1).pdf)] [[slide](./assets/slides/2026/张旭鹤VTS-LLM%20Domain-Adaptive%20LLM%20Agent%20for%20Enhancing%20Awareness%20in%20Vessel%20Traffic%20Services%20through%20Natura(1).pdf)]
+
+**20260712**
+- 穆莹：The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Frontiers [[paper](./assets/papers/2026/穆莹agentic_time_series_survey(1).pdf)] [[slide](./assets/slides/2026/穆莹组会时序列论文(1)(1).pdf)]
+
 **其他顶会论文记录**
 
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

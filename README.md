@@ -279,6 +279,9 @@
 **20260726**
 - 胥峻超：Traj-LLM: A New Exploration for Empowering Trajectory Prediction With Pre-Trained Large Language Models [[paper](./assets/papers/2026/胥峻超Traj-LLM_A_New_Exploration_for_Empowering_Trajectory_Prediction_With_Pre-Trained_Large_Language_Models\(1\).pdf)][[slide](./assets/slides/2026/胥峻超Traj-LLM_%20基于大语言模型赋能轨迹预测的新探索\(1\).pdf)]
 
+**20260809**
+- 徐振兴：Spatio-Temporal Data Enhanced Vision-Language Model for Traffic Scene Understanding [[paper](./assets/papers/2026/徐振兴Spatio-Temporal_Data_Enhanced_Vision-Language_Model_for_Traffic_Scene_Understanding.pdf)][[slide](./assets/slides/2026/徐振兴Spatio-Temporal_Data_Enhanced_Vision-Language_Model_for_Traffic_Scene_Understanding%20\(1\).pdf)]
+
 **其他顶会论文记录**
 
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

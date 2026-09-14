@@ -288,7 +288,7 @@
 # 2026年秋季学期
 
 **20260913**
--段梦奥:A Dynamic GraphRAG Framework for Resolving Temporal Conflicts and Redundancy in Knowledge Retrieval[[paper](./assets/papers/2026/段梦奥A%20Dynamic%20GraphRAG%20Framework%20for%20Resolving%20Temporal%20Conflicts%20and%20Redundancy%20in%20Knowledge%20Retrieval.pdf)][[slide](./assets/slides/2026/段梦奥A%20Dynamic%20GraphRAG%20Framework%20for%20Resolving.pdf)]
+- 段梦奥:A Dynamic GraphRAG Framework for Resolving Temporal Conflicts and Redundancy in Knowledge Retrieval[[paper](./assets/papers/2026/段梦奥A%20Dynamic%20GraphRAG%20Framework%20for%20Resolving%20Temporal%20Conflicts%20and%20Redundancy%20in%20Knowledge%20Retrieval.pdf)][[slide](./assets/slides/2026/段梦奥A%20Dynamic%20GraphRAG%20Framework%20for%20Resolving.pdf)]
 
 **其他顶会论文记录**
 

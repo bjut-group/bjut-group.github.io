@@ -283,7 +283,7 @@
 - 徐振兴：Spatio-Temporal Data Enhanced Vision-Language Model for Traffic Scene Understanding [[paper](./assets/papers/2026/徐振兴Spatio-Temporal_Data_Enhanced_Vision-Language_Model_for_Traffic_Scene_Understanding.pdf)][[slide](./assets/slides/2026/徐振兴Spatio-Temporal_Data_Enhanced_Vision-Language_Model_for_Traffic_Scene_Understanding%20\(1\).pdf)]
 
 **20260816**
--张志航:A Knowledge-Guided Framework for Multi-Agent Trajectory Prediction in Autonomous Driving[[paper](./assets/papers/2026/张志航KnowMTP.pdf)][[slide](./assets/slides/2026/张志航KnowMTPpt%20.pdf)]
+- 张志航:A Knowledge-Guided Framework for Multi-Agent Trajectory Prediction in Autonomous Driving[[paper](./assets/papers/2026/张志航KnowMTP.pdf)][[slide](./assets/slides/2026/张志航KnowMTPpt%20.pdf)]
 
 # 2026年秋季学期
 

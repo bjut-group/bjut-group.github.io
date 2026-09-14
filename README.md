@@ -282,6 +282,14 @@
 **20260809**
 - 徐振兴：Spatio-Temporal Data Enhanced Vision-Language Model for Traffic Scene Understanding [[paper](./assets/papers/2026/徐振兴Spatio-Temporal_Data_Enhanced_Vision-Language_Model_for_Traffic_Scene_Understanding.pdf)][[slide](./assets/slides/2026/徐振兴Spatio-Temporal_Data_Enhanced_Vision-Language_Model_for_Traffic_Scene_Understanding%20\(1\).pdf)]
 
+**20260816**
+-张志航:A Knowledge-Guided Framework for Multi-Agent Trajectory Prediction in Autonomous Driving[[paper](./assets/papers/2026/张志航KnowMTP.pdf)][[slide](./assets/slides/2026/张志航KnowMTPpt%20.pdf)]
+
+# 2026年秋季学期
+
+**20260913**
+-段梦奥:A Dynamic GraphRAG Framework for Resolving Temporal Conflicts and Redundancy in Knowledge Retrieval[[paper](./assets/papers/2026/段梦奥A%20Dynamic%20GraphRAG%20Framework%20for%20Resolving%20Temporal%20Conflicts%20and%20Redundancy%20in%20Knowledge%20Retrieval.pdf)][[slide](./assets/slides/2026/段梦奥A%20Dynamic%20GraphRAG%20Framework%20for%20Resolving.pdf)]
+
 **其他顶会论文记录**
 
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

@@ -290,6 +290,12 @@
 **20260913**
 - 段梦奥:A Dynamic GraphRAG Framework for Resolving Temporal Conflicts and Redundancy in Knowledge Retrieval[[paper](./assets/papers/2026/段梦奥A%20Dynamic%20GraphRAG%20Framework%20for%20Resolving%20Temporal%20Conflicts%20and%20Redundancy%20in%20Knowledge%20Retrieval.pdf)][[slide](./assets/slides/2026/段梦奥A%20Dynamic%20GraphRAG%20Framework%20for%20Resolving.pdf)]
 
+**20260927**
+- 李德志: CoPS:Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [[paper](./assets/papers/2026/李德志_CoPS%20Conditional%20Prompt%20Synthesis%20for%20Zero-Shot%20Anomaly%20Detection\(1\).pdf)][[slide](./assets/slides/2026/李德志%20CoPS%20Conditional%20Prompt%20Synthesis%20for%20Zero-Shot%20Anomaly%20Detection\(1\).pdf)]
+
+**20261011**
+- 段梦奥:From GPS Points to Travel Patterns: Flexible and Semantic Trajectory Generation with LLMs [[paper](./assets/papers/2026/段梦奥From%20GPS%20Points%20to%20Travel%20Patterns%20Flexible%20and%20Semantic%20Trajectory%20Generation%20with%20LLMs.pdf)][[slide](./assets/slides/2026/段梦奥_From%20GPS%20Points%20to%20Travel%20Patterns%20-.pdf)]
+
 **其他顶会论文记录**
 
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]

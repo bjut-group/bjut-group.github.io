@@ -296,6 +296,12 @@
 **20261011**
 - 段梦奥:From GPS Points to Travel Patterns: Flexible and Semantic Trajectory Generation with LLMs [[paper](./assets/papers/2026/段梦奥From%20GPS%20Points%20to%20Travel%20Patterns%20Flexible%20and%20Semantic%20Trajectory%20Generation%20with%20LLMs.pdf)][[slide](./assets/slides/2026/段梦奥_From%20GPS%20Points%20to%20Travel%20Patterns%20-.pdf)]
 
+**20261025**
+- 李德志:External Knowledge Injection for CLIP-Based Class-Incremental Learning [[paper](./assets/papers/2026/李德志_External%20Knowledge%20Injection%20for%20CLIP-Based%20Class-Incremental%20Learning.pdf)][[slide](./assets/slides/2026/李德志External%20Knowledge%20Injection%20.pdf)]
+
+**20261108**
+- 张志航:Robust Inter-Series Dependency Modeling for Time Series Forecasting via Information-Theoretic Alignment [[paper](./assets/papers/2026/张志航Robust%20Inter-Series%20Dependency%20Modeling%20for%20Time%20Series%20Forecasting%20viaInformation-Theoretic%20Alignment.pdf)][[slide](./assets/slides/2026/张志航Robust%20Inter-Series%20Dependency%20Modeling%20.pdf)]
+
 **其他顶会论文记录**
 
 - 庞媛媛：Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting [[paper](./assets/papers/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)][[slide](./assets/slides/2024/庞媛媛Dynamic%20Hypergraph%20Structure%20Learning%20for%20Traffic%20Flow%20Forecasting.pdf)]
